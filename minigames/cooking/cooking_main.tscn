@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://djo6of7so7tee"]
+
+[ext_resource type="Texture2D" uid="uid://cxjfrrji1yfqm" path="res://minigames/cooking/assets/dev_bg.png" id="1_gcp0b"]
+
+[node name="main" type="Node2D"]
+
+[node name="TextureRect" type="TextureRect" parent="."]
+offset_right = 1920.0
+offset_bottom = 1080.0
+texture = ExtResource("1_gcp0b")
+stretch_mode = 4
